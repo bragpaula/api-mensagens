@@ -1,0 +1,15 @@
+{
+  "name": "api-mensagens",
+  "version": "1.0.0",
+  "description": "Desenvolvevimento de uma API básica para gerenciamento de mensagens utilizando as operações CRUD (Criar, Ler, Atualizar, Deletar), realizando testes no Postman e utilizando o ambiente GitHub Codespaces para execução.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
